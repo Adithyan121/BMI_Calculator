@@ -6,7 +6,7 @@ const Footer = () => {
       <p>
       © 2025 {" "}
         <a
-          href="https://portfolio-git-main-adithyan121s-projects.vercel.app" // Replace with your desired link
+          href="https://adithyan-phi.vercel.app/" // Replace with your desired link
           target="_blank"
           rel="noopener noreferrer"
         >
