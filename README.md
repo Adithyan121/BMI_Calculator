@@ -129,5 +129,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Adithyan G**
 
+<<<<<<< HEAD
 - **GitHub:** [AdithyanG](https://github.com/AdithyanG)
   > > > > > > > befa1d3 (first commit)
+=======
+- **GitHub:** [AdithyanG](https://github.com/Adithyan121)
+>>>>>>> 8b32d01 (first commit)
