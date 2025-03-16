@@ -62,10 +62,6 @@ The BMI Calculator is a web application that allows users to calculate their Bod
 
 1. Click **"Clear Data"** to remove all entries from the list and localStorage.
 
-## Screenshots
-
-![alt text](image.png)
-
 ## Installation
 
 ### Clone the repository:
@@ -127,4 +123,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Adithyan G**
 
-- **GitHub:** [AdithyanG](https://github.com/AdithyanG)
+- **GitHub:** [AdithyanG](https://github.com/Adithyan121)
