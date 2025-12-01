@@ -11,7 +11,7 @@ const Navbar = ({ theme, toggleTheme }) => {
 
   return (
     <nav className="navbar">
-      <div className="navbar-brand">Anandhu's BMI Calculator</div>
+      <div className="navbar-brand">BMI Calculator</div>
       <div className="navbar-links">
         <button onClick={toggleTheme} className="theme-toggle-button">
           {theme === "dark" ? (
@@ -20,7 +20,7 @@ const Navbar = ({ theme, toggleTheme }) => {
             <MdLightMode size={24} />
           )}
         </button>
-        <img
+        {/* <img
           src={profilePic}
           alt="Profile"
           className="profile-pic"
@@ -30,7 +30,7 @@ const Navbar = ({ theme, toggleTheme }) => {
           <div className="profile-popup" onClick={handleProfileClick}>
             <img src={profilePic} alt="Profile" className="popup-profile-pic" />
           </div>
-        )}
+        )} */}
       </div>
     </nav>
   );
