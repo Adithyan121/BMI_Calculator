@@ -4,15 +4,15 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p>
-        © 2025{" "}
+        Built by{" "}
         <a
-          href="https://adithyan-phi.vercel.app/" // Replace with your desired link
+          href="https://adithyan-phi.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <strong>Adithyan G</strong>
         </a>{" "}
-        | All Rights Reserved
+        | <a href="https://adithyan-phi.vercel.app/" target="_blank" rel="noopener noreferrer">View Portfolio</a>
       </p>
     </footer>
   );
